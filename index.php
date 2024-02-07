@@ -1,4 +1,6 @@
 <?php
+require_once 'TimezoneConverter.php';
+
 // Database connection
 $servername = "localhost:4306";
 $username = "root";
